@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: ch.codez.spaceflight.Main
+Class-Path: lib/commons-logging-1.1.1.jar 
+            lib/commons-lang-2.3.jar
+            lib/commons-collections-3.2.jar
+            lib/commons-configuration-1.4.jar
+            lib/log4j-1.2.15.jar
+            lib/jna.jar
+            lib/platform.ja
+            lib/vlcj-1.2.1.jar
+            .
+
